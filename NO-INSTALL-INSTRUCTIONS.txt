@@ -1,0 +1,23 @@
+PERSONAL COMMAND CENTRE v23.0 — PASTEL LOCAL TEST
+
+Approved visual conversion:
+- Soft blue-grey background and white cards
+- Blue primary controls/navigation
+- Mint Savings
+- Coral Spending
+- Violet Investments
+- Amber Reminders
+- Deep slate text with compact typography and soft shadows
+- Consistent visual language across Home, Work, Personal, Savings, Spending and Investments
+
+Home behavior:
+- Work card surfaces High Priority tasks first.
+- If there are no High Priority tasks, current-week Reminders are surfaced.
+- Normal/Low tasks appear only when neither High Priority tasks nor weekly Reminders are available.
+- Clicking anywhere on Personal opens Personal.
+- Spending / Savings / Investments rows open their own tabs.
+
+All v22.5 local functionality is retained, including drag/drop Work ordering,
+today as the default new-task start date, Enter-to-save, Set Budget and transaction Delete.
+
+Nothing is installed. Nothing is deployed to Netlify.
